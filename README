@@ -6,6 +6,7 @@ The repository contains following files:
 Notebooks containing the two CFA models developed in the study
 - CFA_best.ipynb
 - CFA_expansive.ipynb
+** there is a small deviation between the estimator values reported in the paper and given by the aggregate models in the above notebook. This is because we report the median values of the estimators across the cfa models, while the summary() function provides the mean
 
 Notebooks containing the results of the Mixed Effects models developed in the study for the three changes in the reaction mechanisms:
 (A) Up/down votes to upvotes
