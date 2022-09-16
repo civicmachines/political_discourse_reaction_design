@@ -20,8 +20,7 @@ Notebooks containing the results of the Mixed Effects models developed in the st
 The located changes in Moderation rules:
 - subreddit_moderation_rules.csv
 
-Link to download the pretrained language model in the rhetorical elements classification task of the comments
-and a notebook for loading it:
+Link to download the pretrained language model in the rhetorical elements classification task of the comments and a notebook for loading it:
 - https://drive.google.com/drive/folders/13QTQtUurl5XvHc6tTp0ZxOI-VskPCHXY
 - loading_demo.ipynb
 
