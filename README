@@ -25,7 +25,10 @@ and a notebook for loading it:
 - https://drive.google.com/drive/folders/13QTQtUurl5XvHc6tTp0ZxOI-VskPCHXY
 - loading_demo.ipynb
 
-The script to calculate the intercoder reliability score:
+The script to calculate the intercoder reliability score and the labeled comments for coder 1 & 2:
+- intercoder_reliability.ipynb
+- labeled_comments_c1.csv
+- labeled_comments_c2.csv
 
 Warning: We are not able to provide access to the full or partial data of the study to respect the privacy of the individuals in the dataset, as proposed by the AOIR Guidelines: https://aoir.org/reports/ethics3.pdf
 
