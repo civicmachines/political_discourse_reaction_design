@@ -20,10 +20,10 @@ Notebooks containing the results of the Mixed Effects models developed in the st
 The located changes in Moderation rules:
 - Subreddit_rules.csv
 
-The pretrained language model in the rhetorical elements classification task of the comments
-and a notebook for loading it and making predictions:
-- /best_model/pytorch_model.bin
-- prediction_demo.ipynb
+Link to download the pretrained language model in the rhetorical elements classification task of the comments
+and a notebook for loading it:
+- https://drive.google.com/drive/folders/13QTQtUurl5XvHc6tTp0ZxOI-VskPCHXY
+- loading_demo.ipynb
 
 The script to calculate the intercoder reliability score:
 
