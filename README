@@ -4,21 +4,21 @@ reaction mechanisms and political discourse on Reddit", submitted to CHI'23.
 The repository contains following files:
 
 Notebooks containing the two CFA models developed in the study
-- Github_CFA_best.ipynb
-- Github_CFA_expansive.ipynb
+- CFA_best.ipynb
+-CFA_expansive.ipynb
 
 Notebooks containing the results of the Mixed Effects models developed in the study for the three changes in the reaction mechanisms:
 (A) Up/down votes to upvotes
-- Github_plot_mixed_effects_updownvote_upvote.ipynb
+- plot_mixed_effects_updownvote_upvote.ipynb
 
 (B) Up/down votes to no votes
-- Github_plot_mixed_effects_updownvote_novote.ipynb
+- plot_mixed_effects_updownvote_novote.ipynb
 
 (C) Upvotes to no votes
-- Github_plot_mixed_effects_upvote_novote.ipynb
+- plot_mixed_effects_upvote_novote.ipynb
 
 The located changes in Moderation rules:
-- Subreddit_rules.csv
+- subreddit_rules.csv
 
 Link to download the pretrained language model in the rhetorical elements classification task of the comments
 and a notebook for loading it:
